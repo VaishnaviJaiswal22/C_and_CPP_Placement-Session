@@ -1,1 +1,1 @@
-# C-C-Placement-Session
+# C/C++Placement-Session
