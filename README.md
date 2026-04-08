@@ -4,7 +4,7 @@ Welcome to my C / C++ Placement Preparation Repository 🚀
 This repository contains all the important concepts, coding questions, and solutions that I practiced for technical interviews and placements.
 
 
-#🔹 C Programming
+# C Programming
 
  Basics (Variables, Data Types, Operators)
  
@@ -19,7 +19,7 @@ Pointers
 Structures & Unions
 
 
-#🔹 C++ Programming
+# C++ Programming
 
 OOP Concepts (Class, Object, Inheritance, Polymorphism, Abstraction, Encapsulation)
 
