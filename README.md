@@ -4,8 +4,9 @@ Welcome to my C / C++ Placement Preparation Repository 🚀
 This repository contains all the important concepts, coding questions, and solutions that I practiced for technical interviews and placements.
 
 📚 Topics Covered
+
 🔹 C Programming
-Basics (Variables, Data Types, Operators)
+# Basics (Variables, Data Types, Operators)
 Control Statements (if-else, switch, loops)
 Functions & Recursion
 Arrays & Strings
